@@ -9,10 +9,7 @@ insert into bul_coll_emp  values(103,'Ram');
 insert into bul_coll_emp  values(104,'Veera');
 insert into bul_coll_emp  values(105,null);
 insert into bul_coll_emp  values(106,'Praveen');
-insert into bul_coll_emp  values(107,null);
-insert into bul_coll_emp  values(108,'vimal');
-insert into bul_coll_emp  values(109,'tamil');
-insert into bul_coll_emp  values(100,'suresh');
+
 commit;
 end;
 /
